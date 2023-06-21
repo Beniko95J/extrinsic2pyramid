@@ -43,4 +43,4 @@ def plot_framewise():
     visualizer.show()
 
 plot_scenewise()
-plot_framewise()
+# plot_framewise()
